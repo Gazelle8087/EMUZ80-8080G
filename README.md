@@ -11,7 +11,8 @@
 ![MEZ8080改造箇所](https://github.com/Gazelle8087/EMUZ80-8080G/blob/main/MEZ8080_modify.jpg)  
 ## 8080用コード  
 8080用コードは以前作成したemuz80+mez8085用の物を流用しました。  
-
+詳細は以下リンク先ご覧ください。  
+https://drive.google.com/drive/folders/1abwFj7vFJUoVxqDc4fVLAgv0AT-kCIrY
 ## 変更履歴
 Ver1.0 2023.12.15 初版公開
 

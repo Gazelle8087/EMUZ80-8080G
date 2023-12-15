@@ -3,6 +3,7 @@
 
 奥江聡さん作MEZ8080を小改造し8080の2相クロックをPICのNCOで生成し  
 処理効率向上にトライしたファームウエアを公開します。  
+本ファームにて8080規格ほぼ上限の 2.063MHzにて動作させています。
 
 ## 基板改造
 本ファームウエアを動作させるにはMEZ8080基板の  
@@ -11,6 +12,8 @@
 ![MEZ8080改造箇所](https://github.com/Gazelle8087/EMUZ80-8080G/blob/main/MEZ8080_modify.jpg)  
 ## 8080用コード  
 8080用コードは以前作成したemuz80+mez8085用の物を流用しました。  
+電源ONでモニタが立ち上がり、#1にてGrants Basicが起動します。  
+モニタに戻るには BASICで MONITOR と入力ください。  
 詳細は以下リンク先ご覧ください。  
 https://drive.google.com/drive/folders/1abwFj7vFJUoVxqDc4fVLAgv0AT-kCIrY
 ## 変更履歴
@@ -31,4 +34,5 @@ https://github.com/satoshiokue/EMUZ80-8080
 
 本ソースとHEXはGPLライセンスを遵守のうえご自由に再配布いただいて構いません。  
 
-2023.12.15 Gazelle https://twitter.com/Gazelle8087
+2023.12.15 Gazelle https://twitter.com/Gazelle8087  
+https://github.com/Gazelle8087/EMUZ80-8080G

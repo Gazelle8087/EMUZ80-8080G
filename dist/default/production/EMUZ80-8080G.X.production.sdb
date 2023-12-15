@@ -511,7 +511,7 @@
 [u S452 . 4 `l 1 i 4 0 `d 1 f 4 0 `S444 1 fAsBytes 4 0 `S449 1 fAsWords 4 0 ]
 [v ___flmul@prod prod `S452  1 a 4 33 ]
 "12
-[v ___flmul@grs grs `ul  1 a 4 27 ]
+[v ___flmul@grs grs `ul  1 a 4 28 ]
 [s S520 . 2 `uc 1 a 1 0 `uc 1 b 1 1 ]
 "14
 [u S523 . 2 `s 1 i 2 0 `us 1 n 2 0 `S520 1 nAsBytes 2 0 ]
@@ -519,7 +519,7 @@
 "10
 [v ___flmul@bexp bexp `uc  1 a 1 32 ]
 "11
-[v ___flmul@aexp aexp `uc  1 a 1 31 ]
+[v ___flmul@aexp aexp `uc  1 a 1 27 ]
 "9
 [v ___flmul@sign sign `uc  1 a 1 26 ]
 "8

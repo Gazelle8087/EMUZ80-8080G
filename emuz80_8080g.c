@@ -212,8 +212,8 @@
 #include <xc.h>
 #include <stdio.h>
 
-#define PHI1 RE1
-#define PHI2 RA5
+#define PHI1 RA4
+#define PHI2 RE1
 
 #define ROM_TOP 0x0000		// ROM top address
 #define ROM_SIZE 0x8000		// 32kB

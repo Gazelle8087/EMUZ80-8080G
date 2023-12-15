@@ -27,7 +27,7 @@
  * Compiler: MPLAB XC8 v2.36
  *
  * Modified by Gazelle 
- * Version 1.00 2023/12/15
+ * Version 1.00 2023/12/15 first release https://github.com/Gazelle8087/EMUZ80-8080G
  */
  /*!
  * PIC18F47Q84/PIC18F47Q83 ROM RAM and UART emulation firmware
@@ -278,7 +278,7 @@ void main(void) {
 //	#define NCO_INC 0x97b4	// 64/27 2.37MHz
 //	#define NCO_INC 0x9d89	// 64/26 2.46MHz
 //	#define NCO_INC 0xa3d7	// 64/25 2.56MHz
-//	#define NCO_INC 0xaaaa	// 64/24 2.66MH
+//	#define NCO_INC 0xaaaa	// 64/24 2.66MHz
 
 	// 8080 clock(PHI1:RA4) by NCO1 Pulse frequency mode
 	RA4PPS = 0x3f;		// RA4 assign NCO1

@@ -26,7 +26,7 @@ Ver1.0 2023.12.15 初版公開
 MEZ8080の詳細は以下リポジトリご参照ください  
 https://github.com/satoshiokue/MEZ8080  
 
-emuz80+mez8080用オリジナルファームウエアは以下リポジトリさん参照ください。  
+emuz80+mez8080用オリジナルファームウエアは以下リポジトリ参照ください。  
 https://github.com/satoshiokue/EMUZ80-8080  
 
 オリジナル・参考ソースへのリンクは、ソースの冒頭に  
